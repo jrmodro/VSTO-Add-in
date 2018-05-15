@@ -1,4 +1,4 @@
-# Rockit
+# Outlook VSTO Add-in
 
 Test of Outlook VSTO Add-in.
 
